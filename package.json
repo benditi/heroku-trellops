@@ -1,11 +1,6 @@
 {
-  "homepage": ".",
-  "proxy": "http://localhost:5000",
   "name": "backend",
   "version": "1.0.0",
-  "engines": {
-    "node": "14.x"
-  },
   "description": "",
   "main": "server.js",
   "scripts": {
